@@ -1,2 +1,2 @@
 ### About me
-Software Engineer at General Motors. :)
+Software Engineer at General Motors.
